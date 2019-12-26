@@ -1,0 +1,22 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#8e77ed",
+        "activityBar.activeBorder": "#f4b9ab",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#f4b9ab",
+        "activityBarBadge.foreground": "#15202b",
+        "titleBar.activeBackground": "#694ae7",
+        "titleBar.inactiveBackground": "#694ae799",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "statusBar.background": "#694ae7",
+        "statusBarItem.hoverBackground": "#8e77ed",
+        "statusBar.foreground": "#e7e7e7",
+        "panel.border": "#8e77ed",
+        "sideBar.border": "#8e77ed",
+        "editorGroup.border": "#8e77ed"
+    },
+    "peacock.color": "#694ae7",
+    "python.pythonPath": "C:\\Users\\Brellin\\.virtualenvs\\Hello-Django-E-xmUu_x\\Scripts\\python.exe"
+}
